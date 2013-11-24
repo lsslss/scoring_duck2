@@ -4,8 +4,8 @@
 // @version    0.4
 // @description  scoring duck2.htm homework
 // @match      http://web.nlhs.tyc.edu.tw/*/duck2.htm
-// @downloadURL     https://www.dropbox.com/s/qmfdb5oc2at1yf1/scoring_duck2.user.js
-// @updateURL       https://www.dropbox.com/s/qmfdb5oc2at1yf1/scoring_duck2.user.js
+// @downloadURL     https://github.com/lsslss/scoring_duck2/blob/master/scoring_duck2.user.js
+// @updateURL       https://github.com/lsslss/scoring_duck2/blob/master/scoring_duck2.user.js
 // @updateVersion   11
 // @copyright  2012+, You
 // ==/UserScript==
