@@ -6,7 +6,7 @@
 // @match      http://web.nlhs.tyc.edu.tw/*/duck2.htm
 // @downloadURL     https://github.com/lsslss/scoring_duck2/blob/master/scoring_duck2.user.js
 // @updateURL       https://github.com/lsslss/scoring_duck2/blob/master/scoring_duck2.user.js
-// @updateVersion   11
+// @updateVersion   12
 // @copyright  2012+, You
 // ==/UserScript==
 var duckTitle = document.getElementsByTagName('h1')[0];
