@@ -4,9 +4,9 @@
 // @version    0.4
 // @description  scoring duck2.htm homework
 // @match      http://web.nlhs.tyc.edu.tw/*/duck2.htm
-// @downloadURL     https://github.com/lsslss/scoring_duck2/blob/master/scoring_duck2.user.js
-// @updateURL       https://github.com/lsslss/scoring_duck2/blob/master/scoring_duck2.user.js
-// @updateVersion   12
+// @downloadURL     https://raw.github.com/lsslss/scoring_duck2/master/scoring_duck2.user.js
+// @updateURL       https://raw.github.com/lsslss/scoring_duck2/master/scoring_duck2.user.js
+// @updateVersion   13
 // @copyright  2012+, You
 // ==/UserScript==
 var duckTitle = document.getElementsByTagName('h1')[0];
