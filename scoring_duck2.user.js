@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       scoring duck2
 // @namespace  http://web.nlhs.tyc.edu.tw/~lss
-// @version    0.4.5
+// @version    0.4.6
 // @description  scoring duck2.htm homework
 // @match      http://web.nlhs.tyc.edu.tw/*/duck2.htm
 // @downloadURL     https://raw.github.com/lsslss/scoring_duck2/master/scoring_duck2.user.js
