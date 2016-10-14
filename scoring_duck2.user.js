@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       scoring duck2
 // @namespace  http://web.nlhs.tyc.edu.tw/~lss
-// @version    0.4.6
+// @version    0.4.7
 // @description  scoring duck2.htm homework
 // @match      http://web.nlhs.tyc.edu.tw/*/duck2.htm
 // @downloadURL     https://raw.github.com/lsslss/scoring_duck2/master/scoring_duck2.user.js
@@ -15,7 +15,7 @@ var scoringP = document.createElement('p');
 var scoringNLA = document.createElement('p');
 var scoringWiki = document.createElement('p');
 var homework = document.createElement('div');
-var source_code = document.createElement('code');
+var source_code = document.createElement('div');
 source_code.TextContent = document.getElementsByTagName('html')[0].innerHTML;
 homework.style.backgroundColor = 'grey';
 homework.style.color = 'white';
