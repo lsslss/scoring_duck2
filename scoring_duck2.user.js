@@ -25,7 +25,7 @@ scoringTitle.style.margin = '10';
 scoringP.style.margin = '10';
 scoringNLA.style.margin = '10';
 scoringWiki.style.margin = '10';
-scoringTitle.textContent = '網頁標題：[' + document.getElementsByTagName('title')[0].textContent + ']';
+scoringTitle.innerText = '網頁標題：[' + document.getElementsByTagName('title')[0].textContent + ']';
 var allPs = document.getElementsByTagName('p');
 scoringP.textContent = '==================>沒有新增段落';
 if(allPs.length >= 2)
